@@ -1,0 +1,16 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "/api/:path*"
+    },
+    {
+      "source": "/n/:shareToken",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/m/:noteId",
+      "destination": "/index.html"
+    }
+  ]
+}
