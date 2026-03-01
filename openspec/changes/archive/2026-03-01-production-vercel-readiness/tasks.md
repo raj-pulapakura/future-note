@@ -19,4 +19,4 @@
 - [x] 3.2 Standardize persistence-failure responses to stable domain error codes without leaking internal stack traces.
 - [x] 3.3 Add automated tests for startup validation, canonical share URL origin, health readiness, and dependency-failure error behavior.
 - [x] 3.4 Add production deployment documentation for Vercel setup, required env vars, and verification checklist.
-- [ ] 3.5 Run local test suite and a Vercel preview verification pass before rollout.
+- [x] 3.5 Run local test suite and a Vercel preview verification pass before rollout.
