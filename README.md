@@ -1,8 +1,15 @@
 # Future Note
 
-Hyper-minimal locked note sharing.
+Hyper-minimal locked note sharing. Try it out @ https://futurenote.io
 
 ## Run
+
+If you want to run it locally for whatever reason:!
+<img width="1909" height="1019" alt="Screenshot 2026-03-02 at 12 58 55 am" src="https://github.com/user-attachments/assets/5ca262de-972b-4e52-95b5-844d843d1a72" />
+<img width="1906" height="1040" alt="Screenshot 2026-03-02 at 12 59 14 am" src="https://github.com/user-attachments/assets/6d48c62f-35bb-4b37-8ecd-b6db4963a29b" />
+<img width="1908" height="1037" alt="Screenshot 2026-03-02 at 12 59 45 am" src="https://github.com/user-attachments/assets/2a8555d0-6b5d-4c85-b384-c778105959e5" />
+<img width="1905" height="1035" alt="Screenshot 2026-03-02 at 12 59 54 am" src="https://github.com/user-attachments/assets/45e4fd76-a7bc-4aee-be05-6d8038af5022" />
+
 
 ```bash
 npm install
